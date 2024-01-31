@@ -1,7 +1,7 @@
 # Data-analysis-CORSIKA
 This software facilitates data acquisition from CORSIKA simulations of cosmic-ray cascades, enabling graphical analyses of particle distributions and energy profiles.
 
-START DATE: FEB/22/2023
+START DATE: FEB/22/2023.
 
 TOPICS: ENERGY DISTRIBUTION AT DIFFERENT HEIGHTS FOR 10 TEV AS PRIMARY ENERGY
 
